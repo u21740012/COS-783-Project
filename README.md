@@ -11,6 +11,9 @@ An AI-powered tool for detecting tampered/manipulated images using a ResNet50V2 
 
 ---
 
+## Demo
+[Demo Video](https://youtu.be/dh5i14tKpKE)
+
 ## Quick Start
 
 ### 1. Install Dependencies
