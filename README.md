@@ -2,6 +2,7 @@
 
 COS 783 - Digital Forensics Final Assignment  
 Option 6: Image and Video Forensics
+Contributers: Oarabile Matlala-21740012, Lesedi Ntsele-25265182, Lusizo Philiso-26277850
 
 ---
 
